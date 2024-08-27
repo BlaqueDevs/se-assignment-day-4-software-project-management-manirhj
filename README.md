@@ -6,7 +6,6 @@ Effective cost control ensures the project remains within budget, preventing fin
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile is iterative and flexible, allowing for changes and frequent updates. Waterfall is linear and structured, with clear stages. Agile's advantages include adaptability and faster feedback; disadvantages include potential scope creep. Waterfall’s advantages include clear documentation and defined stages; disadvantages include inflexibility and delayed testing.
-
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Agile is beneficial for projects requiring flexibility and iterative development, such as mobile apps. Waterfall is suited for projects with fixed requirements, such as large-scale infrastructure projects.
 
